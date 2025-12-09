@@ -16,10 +16,5 @@ methods and highlights:
 
 
 
-## Highlights
-- **Competition-winning solution**: best-performing controller in the course challenge.
-- **Efficient state pruning**: only valid obstacle configurations are enumerated, keeping the state space compact.
-- **Sparse linear algebra**: transition matrices are built as CSR blocks; the hybrid solver converges quickly even with strong-flap uncertainty.
-- **Reproducible setup**: environment locked in `environment.yml`; workspace caching avoids recomputation between runs.
 
 
